@@ -21,6 +21,3 @@
 <script src="script.js"></script>
 </html>
 
-<!-- chercher comment savoir si un bouton est clické
-récupérer contenu d'un élément html en javascript
-afficher dans la console -->
