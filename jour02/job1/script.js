@@ -1,5 +1,3 @@
-var count = 1;
-
 document.getElementById('button').onclick = function citation() {
     var article  = document.getElementById("citation");
     
