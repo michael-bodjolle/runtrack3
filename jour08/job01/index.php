@@ -10,7 +10,7 @@
 <body>
     <header>
         <nav>
-            <nav>
+            
 
                 <a href="#">LaPlateforme_</a>
 
@@ -86,7 +86,18 @@
 
     </main>
     <footer>
+    <nav>
+            
 
+            
+
+            <li><a href="#">Accueil</a></li>
+            <li><a href="#">Inscription</a></li>
+            <li><a href="#">Connexion</a></li>
+            <li><a href="#">Rechercher</a></li>
+            </ul>
+            </div>
+        </nav>
     </footer>
 
 </body>
