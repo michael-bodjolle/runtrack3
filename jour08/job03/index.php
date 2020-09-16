@@ -43,7 +43,7 @@
                     <h5 class="white-text">Liens</h5>
                     <ul>
                         <li><a class="grey-text text-lighten-3" href="#!">Accueil</a></li>
-                        <li><a class="grey-text text-lighten-3" href="#!">Inscription/a></li>
+                        <li><a class="grey-text text-lighten-3" href="#!">Inscription</a></li>
                         <li><a class="grey-text text-lighten-3" href="#!">Connexion</a></li>
                         <li><a class="grey-text text-lighten-3" href="#!">Rechercher</a></li>
                     </ul>
