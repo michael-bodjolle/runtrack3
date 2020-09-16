@@ -53,6 +53,7 @@
                             <form class="col s12">
                                 <div class="row">
                                     <div class="input-field col s6">
+                                
                                         <input placeholder="First name" id="first_name" type="text" class="validate">
                                         <label for="first_name"></label>
                                     </div>
@@ -63,8 +64,10 @@
                                 </div>
                                 <div class="row">
                                     <div class="input-field col s12">
-                                        <input placeholder="Email" id="email" type="email" class="validate">
-                                        <label for="email"></label>
+                                    <label for="email"> <i class="material-icons">contact_mail</i></label>
+                                    
+                                        <input  id="email" type="email" class="validate">
+                                       
                                     </div>
                                 </div>
                                 <div class="row">
